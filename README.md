@@ -64,7 +64,7 @@ This should make the website available at `localhost:8001`.
 
 We developed an external API which users can access with a generated token.  
 The API reference is located here: http://127.0.0.1:8001/apireference.
-Tokens can be generated from the user settings or by filling this link: http://127.0.0.1:8001/user/{user-id}/token.  
+Tokens can be generated from the user settings or by filling this link: http://127.0.0.1:8001/user/{user-id}/token.
 
 To use the API, we provide the following Postman collection: [ProGram API](https://www.postman.com/programlbaw/workspace/program-api/collection/40575933-cbac648a-3f42-4ed8-ba1f-5ce20919677d?action=share&creator=40575933)
 
@@ -78,18 +78,20 @@ curl -X GET "http://localhost:8001/api/<ROUTE>" \
 ## Learn More
 
 In order to learn more about our project, we encourage you to check the following documents:
-* [Main wiki page](https://gitlab.up.pt/lbaw/lbaw2425/lbaw2411/-/wikis/home)
-* [ER: Requirements Specification](https://gitlab.up.pt/lbaw/lbaw2425/lbaw2411/-/wikis/er)
-* [EBD: Database Specification](https://gitlab.up.pt/lbaw/lbaw2425/lbaw2411/-/wikis/ebd)
-* [EAP: Architecture Specification and Prototype](https://gitlab.up.pt/lbaw/lbaw2425/lbaw2411/-/wikis/eap)
-* [PA: Product and Presentation](https://gitlab.up.pt/lbaw/lbaw2425/lbaw2411/-/wikis/pa)
+
+- [Main wiki page](https://github.com/HenriqueSFernandes/program/wiki)
+- [ER: Requirements Specification](https://github.com/HenriqueSFernandes/program/wiki/er)
+- [EBD: Database Specification](https://github.com/HenriqueSFernandes/program/wiki/ebd)
+- [EAP: Architecture Specification and Prototype](https://github.com/HenriqueSFernandes/program/wiki/eap)
+- [PA: Product and Presentation](https://github.com/HenriqueSFernandes/program/wiki/pa)
 
 ## Team
 
-* Bruno Ricardo Soares Pereira de Sousa Oliveira, up202208700@up.pt
-* Henrique Sardo Fernandes, up202204988@up.pt
-* José Carlos Malheiro de Sousa, up202208817@up.pt
-* Rodrigo Albergaria Coelho e Silva, up202205188@up.pt
+- Bruno Ricardo Soares Pereira de Sousa Oliveira, up202208700@up.pt
+- Henrique Sardo Fernandes, up202204988@up.pt
+- José Carlos Malheiro de Sousa, up202208817@up.pt
+- Rodrigo Albergaria Coelho e Silva, up202205188@up.pt
 
-***
+---
+
 GROUP2411, December 2024
