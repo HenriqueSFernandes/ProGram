@@ -1,5 +1,9 @@
 # ProGram - LBAW2411
 
+## Grade
+
+19.2/20
+
 ## ProGram
 
 ProGram is a social networking platform being developed by a startup which aims to connect programmers with like-minded individuals. The need for a specialized space where technology professionals can connect, collaborate, and share knowledge drives this initiative. By providing an interactive and supportive environment, ProGram seeks to fill this gap within the tech community.
